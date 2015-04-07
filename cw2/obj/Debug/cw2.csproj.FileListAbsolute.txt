@@ -1,0 +1,6 @@
+G:\Dropbox\Dev\cw2\cw2\bin\cw2.dll.config
+G:\Dropbox\Dev\cw2\cw2\bin\cw2.dll
+G:\Dropbox\Dev\cw2\cw2\bin\cw2.pdb
+G:\Dropbox\Dev\cw2\cw2\obj\Debug\cw2.csprojResolveAssemblyReference.cache
+G:\Dropbox\Dev\cw2\cw2\obj\Debug\cw2.dll
+G:\Dropbox\Dev\cw2\cw2\obj\Debug\cw2.pdb

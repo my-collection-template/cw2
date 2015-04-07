@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /files/
+Disallow: /views/secret.html
+
+# The sitemap must be an absolute URL
+sitemap: http://mysite.com/sitemap.xml
